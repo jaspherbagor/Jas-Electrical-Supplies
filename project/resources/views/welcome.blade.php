@@ -8,5 +8,6 @@
 </head>
 <body>
     <h1 style="color:  red">Welcome to my website...</h1>
+    <h2>h2 tag</h2>
 </body>
 </html>
