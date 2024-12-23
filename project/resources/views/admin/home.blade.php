@@ -9,7 +9,7 @@
             </div>
             <div class="card-wrap">
                 <div class="card-header">
-                    <h4>Total Employee</h4>
+                    <h4>Total Products</h4>
                 </div>
                 <div class="card-body">
                     15
@@ -24,7 +24,7 @@
             </div>
             <div class="card-wrap">
                 <div class="card-header">
-                    <h4>Regular Employee</h4>
+                    <h4>Total Categories</h4>
                 </div>
                 <div class="card-body">
                     10
@@ -39,7 +39,7 @@
             </div>
             <div class="card-wrap">
                 <div class="card-header">
-                    <h4>Probationary Employee</h4>
+                    <h4>Total Types</h4>
                 </div>
                 <div class="card-body">
                     3
@@ -54,7 +54,7 @@
             </div>
             <div class="card-wrap">
                 <div class="card-header">
-                    <h4>Total Deparment</h4>
+                    <h4>Total Sales</h4>
                 </div>
                 <div class="card-body">
                     45
