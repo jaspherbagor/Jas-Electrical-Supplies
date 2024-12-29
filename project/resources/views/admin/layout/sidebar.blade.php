@@ -16,7 +16,7 @@
             <li class="nav-item dropdown">
                 <a href="#" class="nav-link has-dropdown"><i class="fas fa-hand-point-right"></i><span>Product Options</span></a>
                 <ul class="dropdown-menu">
-                    <li class=""><a class="nav-link" href=""><i class="fas fa-angle-right"></i> Product List</a></li>
+                    <li class=""><a class="nav-link" href="{{ route(('product_list')) }}"><i class="fas fa-angle-right"></i> Product List</a></li>
                     <li class=""><a class="nav-link" href=""><i class="fas fa-angle-right"></i>Add Product</a></li>
                 </ul>
             </li>

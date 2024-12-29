@@ -23,9 +23,8 @@
                             <tbody>
                                 @php $i=0; @endphp
                                 
-                                @endphp
                                 <tr>
-                                    <td>{{ $loop->iteration }}</td>
+                                    <td>1</td>
                                     <td><img src="" alt="slide_image" class="w_200"></td>
                                     <td></td>
                                     <td></td>                                        
@@ -39,7 +38,7 @@
                                     </div>
                                     
                                 </tr>
-                                @endforeach
+                                
                             </tbody>
                         </table>
                     </div>
