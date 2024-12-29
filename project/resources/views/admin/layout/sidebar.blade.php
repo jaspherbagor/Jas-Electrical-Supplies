@@ -11,7 +11,7 @@
 
         <ul class="sidebar-menu">
 
-            <li class="active"><a class="nav-link" href="index.html"><i class="fas fa-tachometer-alt"></i> <span>Dashboard</span></a></li>
+            <li class="active"><a class="nav-link" href="{{ route('admin_home') }}"><i class="fas fa-tachometer-alt"></i> <span>Dashboard</span></a></li>
 
             <li class="nav-item dropdown">
                 <a href="#" class="nav-link has-dropdown"><i class="fas fa-hand-point-right"></i><span>Product Options</span></a>
