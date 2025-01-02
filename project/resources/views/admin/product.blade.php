@@ -13,8 +13,8 @@
                                 <tr>
                                     <th>SL</th>
                                     <th>Photo</th>
-                                    <th>Room</th>
-                                    <th>Accommodation Name</th>
+                                    <th>Name</th>
+                                    <th>Category</th>
                                     <th>Price</th>
                                     <th>Status</th>
                                     <th>Action</th>
