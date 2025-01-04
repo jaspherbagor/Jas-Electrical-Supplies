@@ -17,7 +17,6 @@
                                     <th>Category</th>
                                     <th>Price</th>
                                     <th>Status</th>
-                                    <th>Action</th>
                                 </tr>
                             </thead>
                             <tbody>
@@ -25,15 +24,12 @@
                                 
                                 <tr>
                                     <td>1</td>
-                                    <td><img src="" alt="slide_image" class="w_200"></td>
+                                    <td><img src="" alt="" class="w_200"></td>
                                     <td></td>
                                     <td></td>                                        
                                     <td></td>
 
-                                    <td>
-                                        
-                                    </td>
-                                    <td class="pt_10 pb_10">
+                                    <td class="pt_10 pb_10"></td>
                                         
                                     </div>
                                     
