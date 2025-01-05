@@ -6,6 +6,7 @@
     <h2>This is a heading of the homepage</h2>
     <h3>This is an h3 tag</h3>
     <h4>H4 tag</h4>
+    ...
 </div>
 
 @endsection
