@@ -27,7 +27,9 @@
                                     <td><img src="" alt="" class="w_200"></td>
                                     <td></td>
                                     <td></td>                                        
-                                    <td></td>
+                                    <td>
+                                        <p>This is a content of the table body in the table</p>
+                                    </td>
 
                                     <td class="pt_10 pb_10"></td>
                                         
