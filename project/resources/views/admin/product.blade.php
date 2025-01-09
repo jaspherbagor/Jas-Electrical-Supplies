@@ -15,6 +15,7 @@
                                     <th>Photo</th>
                                     <th>Name</th>
                                     <th>Category</th>
+                                    <th>Prduct Code</th>
                                     <th>Price</th>
                                     <th>Action</th>
                                 </tr>
