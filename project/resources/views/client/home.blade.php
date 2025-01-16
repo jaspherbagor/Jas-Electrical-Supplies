@@ -8,6 +8,7 @@
     <h4>H4 tag</h4>
     ...
     <h5>....</h5>
+    <h6></h6>
 </div>
 
 @endsection
