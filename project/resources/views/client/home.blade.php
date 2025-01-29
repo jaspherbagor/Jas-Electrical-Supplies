@@ -3,7 +3,7 @@
 @section('main_content')
 
 <div class="container-fluid bg-info vh-100 p-3">
-    <h2>This is a heading of the homepage</h2>
+    <h1>This is the home page of the client dashboard</h1>
 </div>
 
 @endsection
